@@ -1,0 +1,5 @@
+KMeans_Cluster,Size,Age,Income,Tenure,YrsSincePromo,Performance,JobSat,WorkLife,OT_Hours,Training,AttritionRate,RiskTier,Persona
+0,450,41.3,9551.4,11.14,1.99,3.8,3.48,3.24,3.42,25.32,0.04,Low,Stable Veterans
+1,369,36.17,6471.68,6.11,3.06,4.14,3.39,1.98,13.97,19.41,0.08,High,Burnout-Prone High Performers
+2,378,28.02,3872.62,2.28,1.64,2.98,2.94,2.95,4.38,39.53,0.06,Medium,Early-Career Learners
+3,303,32.77,5083.17,3.86,4.95,2.58,2.02,2.39,8.17,8.91,0.16,High,Disengaged & At-Risk
